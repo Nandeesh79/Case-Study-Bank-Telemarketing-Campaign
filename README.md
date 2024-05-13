@@ -59,22 +59,3 @@ Recommendations:
 Offer actionable insights based on the analysis, proposing areas where the bank can
 enhance its positive response rate. Consider factors such as customer demographics,
 campaign timing, and communication strategies.
-Artifacts to be generated (For Learners):
-● Python File/Jupyter Notebook (.ipynb)
-● Presentation (Slides) summarizing the project
-○ Learner needs to present this to Faculty (Viva-Voice)
-○ Presentation time: 10 Mins
-● Artifacts generated needs to be submitted in vLearn on or before deadline
-● Create a zip file of Jupyter Notebook and Presentation file
-○ Zip file name: <LearnerName>_ABADS_<Batch>.zip
-○ Eg: KartikMudaliar_ABADS_B10.zip
-2
-Grading Criteria (For Faculty & Learners):
-Learners will be graded on below mentioned parameters(20 points for each):
-1) Relevance and approach of Analysis
-2) Quality of Output
-3) Overall presentation
-4) Response to Questions
-5) Creativity & Innovation
-Total Points: 100
-3
